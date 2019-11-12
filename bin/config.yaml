@@ -1,0 +1,7 @@
+#配置 参数
+---
+bilPath: C:\server\huawei\centrex\Bill.R02\
+uploadUrl: http://upload
+uploadCons: 1
+timeOut: 8
+maxRetry: 5
